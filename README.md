@@ -3,6 +3,6 @@
 I am Saroglou Christina and i am currently searching for a role in java programming to develop my skills
 
 
-### Programming Languages
+### Programming Languages and skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,python,js,#C,springboot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,gradle,html,css,py,django,js,cs,mysql,postman)](https://skillicons.dev)
